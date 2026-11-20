@@ -370,3 +370,19 @@ form{padding:18px}
   opacity: 1 !important;
   visibility: visible !important;
 }
+
+
+
+
+
+@media (max-width: 600px){
+  .portrait{
+    padding-top: 10px;
+  }
+  .portrait img{
+    border-radius: 20px;
+  }
+  .ab-img{
+    padding: 0px !important;
+  }
+}
