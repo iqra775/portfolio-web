@@ -384,5 +384,9 @@ form{padding:18px}
   }
   .ab-img{
     padding: 0px !important;
+
+  }
+  span.pl{
+    left:1% !important;
   }
 }
